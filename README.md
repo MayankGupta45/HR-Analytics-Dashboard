@@ -47,3 +47,5 @@ This repository presents a robust and interactive Power BI dashboard designed to
 - Open the PBIX file in Power BI Desktop.
 - Use available filters (department, age, income, etc.) to explore workforce trends and gain insights.
 - Apply findings to drive HR decisions, improve retention, and enhance employee experience.
+
+  Snapshot - https://github.com/MayankGupta45/HR-Analytics-Dashboard/blob/main/HR%20analytics%20Snapshot.png
